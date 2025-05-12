@@ -33,7 +33,7 @@ Início: 2025 – Previsão de Conclusão: 2027
 
 Você pode visitar minha página pessoal pelo link abaixo:
 
-👉 [https://matheuscovre5x.github.io/Portfolio/](https://matheuscovre5x.github.io/Portfolio/)
+👉 [https://matheuscovre5x.github.io/Portfolio/](https://matheuscovre5x.github.io/Portifolio/)
 
 ## 📫 Contato
 
