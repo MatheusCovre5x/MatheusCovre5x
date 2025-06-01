@@ -42,6 +42,7 @@ Você pode visitar minha página pessoal pelo link abaixo:
 - 🔗 LinkedIn: [Matheus Covre](https://www.linkedin.com/in/matheus-covre-744520365/)
 
 ---
+https://calendar.google.com/calendar/u/2/r/week
 
 Obrigado pela visita! Fique à vontade para explorar meu portfólio e entrar em contato. 🚀
 
