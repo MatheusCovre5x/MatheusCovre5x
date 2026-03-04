@@ -12,9 +12,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no CEUB. Tenho inter
 
 ### Técnicas
 
-- Python
-- C
-- JavaScript
+- CSS
+- Java
+- HTML
 
 ### Pessoais
 
